@@ -6,14 +6,14 @@ based on the context of its usage in the sentence. If
 we talk about human languages, then they are
 ambiguous too because many words can be
 interpreted in multiple ways depending upon the
-context of their occurrence.
+context of their occurrence.<br/>
 Therefore, WSD becomes a very crucial component
 in MT systems. If the sense of a word is not
 correctly identified, the translation can become
 jarring. It was basically a task for us to identify the
 correct meaning of a word in the given context. As a
 basic semantic understanding at the lexical level,
-WSD is a fundamental problem in NLP.
+WSD is a fundamental problem in NLP.<br/>
 Determining which “sense” of a word is activated by
 the use of the word in a particular context, which
 can be a phrase, a sentence or a paragraph. So,
