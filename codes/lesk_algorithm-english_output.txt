@@ -1,0 +1,758 @@
+output of lesk algorithm : 
+
+
+1.Hair was seen everywhere in the barber shop.
+
+hair :	 	Synset('haircloth.n.01')
+seen :	 	Synset('visualize.v.01')
+everywhere :	 Synset('everywhere.r.01')
+barber :	 Synset('barber.v.01')
+shop :	 	Synset('shop_class.n.01')
+
+2.Not spraying insecticide has caused insects in the hair of the grain
+
+spraying :	 Synset('spraying.n.03')
+insecticide :	 Synset('insecticide.n.01')
+caused :	 Synset('induce.v.02')
+insects :	 Synset('worm.n.02')
+hair :	 	Synset('hair.n.04')
+grain :	 	Synset('grain.n.03')
+
+3.Hair is found on almost the entire body of the monkey
+
+hair :	 	Synset('hair.n.01')
+found :	 	Synset('find.v.05')
+almost :	 Synset('about.r.07')
+entire :	 	Synset('integral.s.02')
+body :	 	Synset('soundbox.n.01')
+monkey :	 Synset('monkey.n.01')
+
+4.His child-like intelligence did not understand this
+
+childlike :	 Synset('childlike.s.02')
+intelligence :	 Synset('intelligence.n.01')
+understand :	 Synset('understand.v.04')
+
+5.We should help the child laborers
+
+help :	 Synset('serve.v.05')
+child :	 	Synset('child.n.04')
+laborers :	 Synset('laborer.n.01')
+
+6.Water is the basis of life
+
+water :	 Synset('water.n.06')
+basis :	 Synset('basis.n.03')
+life :	 Synset('biography.n.01')
+
+7.Water keeps falling from both his eyes
+
+water :	 	Synset('water_system.n.02')
+keeps :	 Synset('prevent.v.02')
+falling :	 	Synset('precipitate.v.03')
+eyes :	 	Synset('eyes.n.01')
+
+8.The water of this sword is worth seeing
+
+water :	 	Synset('body_of_water.n.01')
+sword :	 Synset('sword.n.01')
+worth :	 	Synset('worth.n.03')
+seeing :	 Synset('visual_perception.n.01')
+
+9.Ramesh's blood has turned into water.
+
+rameshs :	 None
+blood :	 	Synset('blood.v.01')
+turned :	 Synset('turn.v.19')
+water :	 	Synset('water_system.n.02')
+
+10.It's water, not milk.
+
+water :	 Synset('water_system.n.02')
+milk :	 Synset('milk.v.03')
+
+11.Nowadays gold price is touching the sky
+
+nowadays :	 Synset('present.n.01')
+gold :	 	Synset('aureate.s.02')
+price :	 	Synset('price.v.02')
+touching :	 Synset('touch.v.02')
+sky :	 	Synset('sky.n.01')
+
+12.Night is made for sleeping only
+
+night :	 	Synset('night.n.03')
+made :	 	Synset('make.v.38')
+sleeping :	 Synset('sleep.v.02')
+
+13.My hand is asleep due to being buried under the chest due to sleep
+
+hand :		 Synset('hand.n.05')
+asleep :	 Synset('asleep.r.02')
+due :		 Synset('due.n.02')
+buried :	 Synset('forget.v.01')
+chest :	 	Synset('breast.n.01')
+due :	 	Synset('due.n.02')
+sleep :	 	Synset('sleep.n.01')
+
+
+14.The animals herd are destroying the farms.
+
+animals :	 Synset('animal.n.01')
+herd :	 	Synset('herd.n.01')
+destroying :	 Synset('destroy.v.01')
+farms :	 	Synset('grow.v.07')
+
+15. Now-a-days new parties are emerging daily in the society
+
+nowadays :	 Synset('present.n.01')
+new :	 	Synset('modern.s.05')
+parties :	 Synset('party.v.01')
+emerging :	 Synset('emerge.v.04')
+daily :	 	Synset('day_by_day.r.01')
+society :	 Synset('society.n.04')
+
+16.There is a Ram-Leela party from Chitrakoot in our city
+
+ramleela :	 None
+party :	 	Synset('party.v.01')
+chitrakoot :	 None
+city :		 Synset('city.n.03')
+
+17.Which party are you from
+
+party :	 Synset('party.v.01')
+
+
+18.The intelligent team of our school is going to watch the film today
+
+intelligent :	 Synset('intelligent.s.04')
+team :	 	Synset('team.v.01')
+school :	 Synset('school.n.05')
+going :	 	Synset('departure.n.01')
+watch :	 	Synset('watch.n.04')
+film :	 	Synset('movie.n.01')
+today :	 	Synset('today.n.02')
+
+19.He wants to join a team
+
+wants :		 Synset('wish.n.01')
+join :		 Synset('union.n.08')
+team :	 	Synset('team.v.01')
+
+20.There are two groups in pigeonpea, gram, etc
+
+two :	 	Synset('deuce.n.04')
+groups :	 Synset('group.v.01')
+pigeonpea :	 None
+gram :	 	Synset('gram.n.02')
+etc :	 	None
+
+21.The decisive team of the debate competition has sent its decision to the organizer
+
+decisive :	 Synset('decisive.a.01')
+team :	 	Synset('team.v.01')
+debate :	 Synset('debate.n.02')
+competition :	 Synset('rival.n.01')
+sent :	 	Synset('commit.v.03')
+decision :	 Synset('decisiveness.n.01')
+organizer :	 Synset('organizer.n.02')
+
+22.He bought a kilo of mangoes from the fruit shop
+
+bought :	 Synset('buy.v.01')
+kilo :		 Synset('kilogram.n.01')
+mangoes :	 Synset('mango.n.02')
+fruit :		 Synset('fruit.n.01')
+shop :	 	Synset('shop.n.01')
+
+23.His work turned out to be very bad
+
+work :	 	Synset('work.v.12')
+turned :	 Synset('twist.v.10')
+bad :	 	Synset('badly.r.06')
+
+24.When children cough, nutmeg is rubbed and fed
+
+children :	 Synset('child.n.04')
+cough :	 Synset('cough.v.01')
+nutmeg :	 Synset('nutmeg.n.02')
+rubbed :	 Synset('rub.v.03')
+fed :	 	Synset('federal_reserve_system.n.01')
+
+25.The head of this arrow is very sharp
+
+head :	 Synset('mind.n.01')
+arrow :	 Synset('arrow.n.02')
+sharp :	 Synset('shrill.s.01')
+
+26.Many people do not believe in horoscope
+
+people :	 Synset('people.v.02')
+believe :	 Synset('think.v.01')
+horoscope :	 Synset('horoscope.n.02')
+
+27.Brahmin has the highest position in the Varna system
+
+brahmin :	 Synset('brahman.n.04')
+highest :	 Synset('eminent.s.01')
+position :	 Synset('status.n.01')
+varna :		 Synset('varna.n.01')
+system :	 Synset('system.n.08')
+
+28.Hindi has 45 characters based on pronunciation
+
+hindi :	 		Synset('hindu.a.01')
+45 :	 		Synset('forty-five.s.01')
+characters :		 Synset('character.v.01')
+based :		 Synset('establish.v.08')
+pronunciation :	 Synset('pronunciation.n.02')
+
+29.He is of fair colour
+
+fair :		 Synset('fairly.r.02')
+colour :	 Synset('semblance.n.01')
+
+30.A head injury can also kill a man
+
+head :	 Synset('head.v.08')
+injury :	 Synset('wound.
+also :	 Synset('besides.r.02')
+kill :	 Synset('killing.n.02')
+man :	 Synset('valet.n.01')
+
+31.Mohan has no hair on his head
+
+mohan :	 None
+hair :		 Synset('hair.n.06')
+head :	 	Synset('head.n.11')
+
+32.There is pain in my feet
+
+pain :	 Synset('trouble.v.05)
+feet :	 Synset('foot.n.06')
+
+33.The composition, especially the composition of the verse, so that the mind is filled with any rasa or impulse: "The only sentence is called poetry
+
+composition :	 Synset('constitution.
+especially :	 Synset('particularly.
+composition :	 Synset('constitution.
+verse :	 	Synset('verse.v.01')
+mind :	 	Synset('mind.n.01')
+filled :	 	Synset('filled.a.02')
+rasa :	 	None
+impulse :	 Synset('pulsation.n.0
+sentence :	 Synset('conviction.n.
+called :	 	Synset('call.v.26')
+poetry :	 Synset('poetry.n.02')
+
+34. Staff fell on the feet of the officer.
+
+staff :	 Synset('staff.v.02')
+fell :	 Synset('hide.n.01')
+feet :	 Synset('metrical_foot.n.01')
+officer : Synset('officer.n.04')
+
+
+
+35. Explain the meaning of the first verse of this couplet.
+
+explain :	 Synset('excuse.v.03')
+meaning :	 Synset('meaning.n.02')
+first :	 	 Synset('first_base.n.02')
+verse :	 	 Synset('verse.v.01')
+couplet :	 Synset('couple.n.04')
+
+36. What position are you in this institution?
+
+position :	 Synset('situation.n.02')
+institution :	 Synset('mental_hospital.n.01')
+
+37. Idioms are counted in verse.
+
+idioms :	 Synset('parlance.n.01')
+counted :	 Synset('count.v.08')
+verse :	 	 Synset('verse.v.01')
+
+38. Son can become bad but mother can never be bad.
+
+son :	 	Synset('son.n.02')
+become :	 Synset('become.v.04')
+bad :		Synset('regretful.a.01')
+mother :	 Synset('mother.v.01')
+never :	 	Synset('never.r.02')
+bad :		Synset('regretful.a.01')
+
+39. Mother, you put your feet up.
+
+mother :	 Synset('mother.v.01')
+put :	 	 Synset('put.v.01')
+feet :	 	 Synset('metrical_foot.n.01')
+
+40. Mataji loves me more than my own mother.
+
+mataji :	 None
+loves :	 	 Synset('sleep_together.v.01')
+mother :	 Synset('mother.v.01')
+
+41. This is the temple of Mata Parvati.
+temple :	 Synset('temple.n.02')
+mata :	 	 None
+parvati :	 Synset('parvati.n.01')
+
+42. Life cannot be imagined in the absence of air.
+
+life :	 	Synset('life.n.03')
+cannot :	 None
+imagined :	 Synset('imagine.v.01')
+absence :	 Synset('absence.n.04')
+air :		 Synset('atmosphere.n.03')
+
+43.What position deity mentioned in Hindu scriptures who is considered the suzerain of wind?
+
+position :	 Synset('status.n.01')
+deity :	 	Synset('deity.n.01')
+mentioned :	 Synset('note.v.01')
+hindu :	 	Synset('hindu.n.02')
+scriptures :	 Synset('bible.n.01')
+considered :	 Synset('view.v.02')
+
+44. Many types of animals are found on Earth.
+
+many :	 	Synset('many.a.01')
+types :	 	Synset('type.v.01')
+animals :	 Synset('animal.n.01')
+found :	 	Synset('find.v.05')
+earth :	 	Synset('worldly_concern.n.01')
+
+45. A cow is a pet.
+
+cow :	 Synset('overawe.v.01')
+pet :	 Synset('pet.n.03')
+
+46. He's not a man, but an animal.
+
+man :	 	Synset('man.n.01')
+animal :	 Synset('animal.n.01')
+
+47. Government is preparing a new plan to deal with famine.
+
+government :	 Synset('government.n.03')
+preparing :	 Synset('prepare.v.07')
+new :		 Synset('newfangled.s.01')
+plan :	 	Synset('plan.v.03')
+deal :	 	Synset('softwood.n.01')
+famine :	 Synset('famine.n.02')
+48. He faced life's famine with patience.
+
+faced :	 	Synset('front.v.01')
+life :	 	Synset('biography.n.01')
+famine :	 Synset('famine.n.02')
+patience :	 Synset('solitaire.n.04')
+
+49. Only God can help him at this time.
+
+god :	 Synset('idol.n.01')
+help :	 Synset('serve.v.05')
+time :	 Synset('time.v.05')
+
+50. I'm only just asking.
+
+asking :	 Synset('request.n.02')
+
+51. He is the only one at home.
+
+one :	 Synset('one.s.03')
+home :	 Synset('home.r.01')
+
+52. Food items are much more expensive in cities than in villages
+
+food :	 	Synset('food.n.03')
+items :	 	Synset('item.n.03')
+much :	 	Synset('much.r.05')
+expensive :	 Synset('expensive.a.01')
+cities :	 	Synset('city.n.03')
+villages :	 Synset('village.n.02')
+
+53. Mom is waiting for dad after preparing food.
+
+mom :	 	Synset('ma.n.01')
+waiting :	 Synset('waiting.s.01')
+dad :	 	Synset('dad.n.01')
+preparing :	 Synset('train.v.02')
+food :	 	Synset('food.n.03')
+
+54. She is drawing boxes in her answer sheet.
+drawing :	 Synset('drawing.n.01')
+boxes :	 Synset('corner.n.08')
+answer :	 Synset('suffice.v.01')
+sheet :	 	Synset('sheet.n.07')
+55. I put the book in the compartment of the table.
+
+put :	 		Synset('put_option.n.02')
+book :			 Synset('script.n.01')
+compartment :	 	Synset('compartment.n.02')
+table :	 		Synset('table.n.05')
+
+56. He placed the chess piece in the next box.
+
+placed :	 Synset('placed.s.02')
+chess :	 	Synset('chess.n.02')
+piece :	 	Synset('patch.v.01')
+next :	 	Synset('next.r.01')
+box :		 Synset('box.n.03')
+
+57. The lion is eating meat.
+
+lion :	 	Synset('leo.n.03')
+eating :	 Synset('eating.n.01')
+meat :		 Synset('meat.n.01')
+
+58. We saw a lion eating a dog in the forest.
+
+saw :	 	Synset('saw.v.01')
+lion :	 	Synset('lion.n.01')
+eating :	 Synset('eat.v.04')
+dog :	 	Synset('dog.n.01')
+forest :	 	Synset('forest.n.01')
+
+59. Termites eat wood.
+
+termites :	 Synset('termite.n.01')
+eat :	 	Synset('eat.v.02')
+wood :	 	Synset('woodwind.n.01')
+
+60. Today he ate my mind.
+
+today :	 	Synset('today.r.02')
+ate :		 Synset('feed.v.06')
+mind :		 Synset('mind.v.06')
+
+
+
+
+61. Only after the death of the daughter-in-law, the mother got worried.
+
+death :		 Synset('death.n.06')
+mother :	 Synset('mother.n.04')
+got :		 Synset('get.v.01')
+worried :	 Synset('worry.v.03')
+
+62. This car drinks a lot of petrol.
+
+car :	 	Synset('car.n.02')
+drinks :	 Synset('drink.n.01')
+lot :	 	Synset('lot.n.02')
+petrol :	 	Synset('gasoline.n.01')
+
+63. She ate her mother as soon as she was born.
+
+ate :	 	Synset('feed.v.06')
+mother :	 Synset('mother.v.01')
+soon :	 	Synset('soon.r.01')
+born :		 Synset('give_birth.v.01')
+
+64. Arrogance eats man.
+
+arrogance :	 Synset('arrogance.n.01')
+eats :		 Synset('feed.v.06')
+man :	 	Synset('world.n.08')
+
+65. So much stuff! Have you eaten all the money?
+
+much :	 	Synset('much.r.04')
+stuff :	 	Synset('material.n.01')
+eaten :	 	Synset('corrode.v.01')
+money :	 Synset('money.n.03')
+
+66. After the end of the story, the devotees were sitting and eating in the Gan Pangat.
+
+end :	 	Synset('goal.n.01')
+story :	 	Synset('narrative.n.01')
+devotees :	 Synset('fan.n.03')
+sitting :	 	Synset('ride.v.01')
+eating :	 Synset('feed.v.06')
+gan :	 	Synset('gin.v.01')
+pangat :	 None
+
+67. He ate my two hours
+
+ate :	 Synset('feed.v.06')
+two :	 Synset('deuce.n.04')
+hours :	 Synset('hours.n.02')
+
+68. I have seen a lot of sorrow and shock in my life
+
+seen :	 	Synset('see.v.17')
+lot :	 	Synset('lot.n.07')
+sorrow :	 Synset('sorrow.n.01')
+shock :		 Synset('shock.n.07')
+life :	 	Synset('life.n.03')
+
+69. There are many differences in food of elephant and ant
+
+many :	 	Synset('many.a.01')
+differences :	 Synset('difference.n.01')
+food :	 	Synset('food.n.02')
+elephant :	 Synset('elephant.n.02')
+ant :	 	Synset('ant.n.01')
+
+70. From peons to offices in offices, they eat a lot
+
+peons :	 Synset('drudge.n.02')
+offices :	 Synset('position.n.06')
+offices :	 Synset('position.n.06')
+eat :	 	Synset('eat.v.04')
+lot :	 	Synset('fortune.n.04')
+
+71. Our principal's name is Mr. Pushpak Bhattacharya
+
+principal :	 Synset('star.n.04')
+name :	 	Synset('name.v.05')
+mr :	 	Synset('mister.n.01')
+pushpak :	 None
+bhattacharya :	 None
+
+72. Sachin Tendulkar has earned both name and money from cricket.
+
+sachin :	 None
+tendulkar :	 None
+earned :	 Synset('gain.v.08')
+name :	 	Synset('name.v.05')
+money :	 Synset('money.n.02')
+cricket :	 Synset('cricket.v.01')
+
+73. I have to win this election at all costs because my name is concerned
+
+win :	 	Synset('acquire.v.05')
+election :	 Synset('election.n.01')
+costs :	 	Synset('price.n.03')
+name :	 	Synset('name.v.02')
+concerned :	 Synset('refer.v.02')
+
+74. The shopkeeper has also loaned another customer in my name
+
+shopkeeper :	 Synset('shopkeeper.n.01')
+also :	 	Synset('besides.r.02')
+loaned :	 Synset('lend.v.02')
+another :	 Synset('another.s.01')
+customer :	 Synset('customer.n.01')
+name :	 	Synset('name.v.02')
+
+
+75. Please forgive me in the name of God
+
+please :	 Synset('please.v.02')
+forgive :	 Synset('forgive.v.02')
+name :	 	Synset('list.v.01')
+god :	 	Synset('god.n.01')
+
+76. This house has five rooms.
+
+house :	 Synset('house.n.09')
+five :	 	Synset('five-spot.n.03')
+rooms :	 Synset('suite.n.02')
+
+
+
+
+
+77. The horoscope shows the state of the planets.
+
+horoscope :	 Synset('horoscope.n.02')
+shows :	 Synset('show.n.01')
+state :	 	Synset('state.n.03')
+planets :	 Synset('planet.n.01')
+
+78. Shyam returned home after spending two years in America
+
+shyam :	 None
+returned :	 Synset('return.v.16')
+home :	 	Synset('home.r.01')
+spending :	 Synset('spending.n.01')
+two :	 	Synset('deuce.n.04')
+years :	 	Synset('year.n.03')
+america :	 Synset('united_states.n.01')
+
+79. This tree is the home of these birds
+
+tree :	 Synset('tree.v.03')
+home :	 Synset('home.r.01')
+birds :	 Synset('bird.n.02')
+
+80. My house is on the second floor.
+
+house :	 Synset('sign_of_the_zodiac.n.01')
+second :	 Synset('second_base.n.02')
+floor :	 	Synset('floor.n.10')
+
+
+
+
+
+
+81.He placed the chess pieces in the next house
+
+placed :	 Synset('placed.s.02')
+chess :	 	Synset('chess.n.02')
+pieces :	 Synset('patch.v.01')
+next :	 	Synset('next.r.01')
+house :	 Synset('house.n.09')
+
+82.Dirt is home to diseases
+
+dirt :	 	Synset('soil.n.02')
+home :	 	Synset('home.r.01')
+diseases :	 Synset('disease.n.01')
+
+83.India is my home
+
+india :	 Synset('india.n.01')
+home :	 Synset('home.v.02')
+
+84.Some examples are given above
+
+examples :	 Synset('model.n.07
+given :	 	Synset('contribute.v.02')
+
+85.The kite has gone too high in the sky
+
+kite :	 Synset('kite.n.02'
+gone :	 Synset('bygone.s.0
+high :	 Synset('high.r.02'
+sky :	 Synset('sky.n.01')
+
+86.A bouquet is placed on the table
+
+bouquet :	 Synset('bouqu
+placed :	 Synset('place
+table :	 	Synset('table.n.05')
+
+87.This sugar is above ten kilos
+
+sugar :	 Synset('sugar.v.01')
+ten :	 Synset('ten.n.01')
+kilos :	 Synset('kilogram.n.01')
+
+88.How straight Ramu seems from above, but he is not
+
+straight :	 Synset('straightaway.n.01')
+ramu :	 	None
+seems :	 Synset('seem.v.04')
+
+89. Make a mistake cry from the top is also something
+
+make :		 Synset('make.v.08')
+mistake :	 Synset('err.v.01')
+cry :	 	Synset('shout.v.02')
+top :	 	Synset('peak.n.04')
+also :	 	Synset('besides.r.02')
+something :	 None
+
+90.The internal disease will come up with this medicine
+
+internal :	 Synset('home.s.03')
+disease :	 Synset('disease.n.01')
+come :	 	Synset('total.v.01')
+medicine :	 Synset('medicine.n.02')
+
+
+91.There is a temple just above the pond
+
+temple :	 Synset('temple.n.01')
+pond :	 	Synset('pond.n.01')
+
+92. The younger brother passed the exam and went above and the elder brother remains where he is
+
+younger :	 Synset('younger.s.01')
+brother :	 Synset('brother.n.05')
+passed :	 Synset('pass.v.05')
+exam :	 	Synset('examination.n.02')
+went :	 	Synset('fit.v.02')
+elder :	 	Synset('elder.s.01')
+brother :	 Synset('brother.n.05')
+remains :	 Synset('stay.v.01')
+
+93.The higher court has revoked this order
+
+higher :	 Synset('higher.s.02')
+court :	 	Synset('court.n.09')
+revoked :	 Synset('revoke.v.02')
+order :	 	Synset('decree.n.01')
+
+94.He saw many sorrows in his life
+
+saw :	 	Synset('visualize.v.01')
+many :	 	Synset('many.a.01')
+sorrows :	 Synset('sorrow.n.0
+life :	 	Synset('liveliness.n.02')
+
+95.Shyam was looking at Mahatma Gandhi's picture carefully
+
+shyam :	 None
+looking :	 Synset('search.v.02')
+mahatma :	 Synset('mahatma.n.01')
+gandhis :	 Synset('gandhi.n.02')
+picture :	 Synset('picture.v.02')
+carefully :	 Synset('cautiously.r.01')
+
+96.Don't look at everything negatively
+
+dont :	 None
+look :	 Synset('expect.v.03')
+everything :	 None
+negatively :	 Synset('negatively.r.02')
+
+97.Before leaving in the morning I check if the windows, doors of the room are closed
+
+leaving :	 Synset('entrust.v.02')
+morning :	 Synset('dawn.n.01')
+check :	 Synset('check.v.18')
+windows :	 Synset('window.n.02')
+doors :	 Synset('doorway.n.01')
+room :	 Synset('room.n.04')
+closed :	 Synset('close.v.10')
+
+98.I saw the working of this device
+
+saw :	 Synset('see.v.10')
+working :	 Synset('solve.v.01')
+device :	 Synset('device.n.05')
+
+99.See if the train is running on time
+
+see :	 Synset('see.n.01')
+train :	 Synset('train.n.05')
+running :	 Synset('track.n.11')
+time :	 Synset('time.v.05')
+
+100.Have you seen how today's children are behaving
+
+seen :	 Synset('see.v.17')
+todays :	 Synset('today.n.02')
+children :	 Synset('child.n.04')
+behaving :	 Synset('behave.v.03')
+
+101.Look at the baby, I come from outside
+
+look :	 Synset('expect.v.03')
+baby :	 Synset('baby.n.02')
+come :	 Synset('semen.n.01')
+outside :	 Synset('outside.s.06')
+
+102.He closed his eyes before seeing the son
+
+closed :	 Synset('closed.s.07')
+eyes :	 Synset('eye.n.01')
+seeing :	 Synset('visual_perception.n.01')
+son :	 Synset('son.n.02')
+
+
+103.You must have seen today's newspaper
+
+must :	 Synset('mustiness.n.01')
+seen :	 Synset('see.v.17')
+todays :	 Synset('today.n.02')
+newspaper :	 Synset('newspaper.n.03')
+
+
