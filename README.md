@@ -15,11 +15,6 @@ python3 Lesk_hindi.py बाल "कीटनाशक का छिड़का
 ```
 consider result as output
 
-- for english lesk_algorithm.py
-input your sentence in line no. 16 of code and run python file.
-```
-python3 lesk_english.py
-```
 
 - for english lesk_english.py
 ```
@@ -31,3 +26,9 @@ cricket in "he plays cricket"
 python3 Lesk_hindi.py cricket "he plays cricket"
 ```
 consider result as output
+
+- for english lesk_algorithm.py
+input your sentence in line no. 16 of code and run python file.
+```
+python3 lesk_english.py
+```
