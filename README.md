@@ -55,3 +55,8 @@ input your sentence in line no. 16 of code and run python file.
 ```
 python3 lesk_english.py
 ```
+
+## Team:
+* [Veeral Agarwal](https://github.com/veeral-agarwal)
+* [Tanishq Goel](https://github.com/TanishqGoel)
+* [Aaryan Singh](https://github.com/aaryanshaby)
