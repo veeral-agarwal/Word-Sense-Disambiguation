@@ -60,3 +60,7 @@ python3 lesk_english.py
 * [Veeral Agarwal](https://github.com/veeral-agarwal)
 * [Tanishq Goel](https://github.com/TanishqGoel)
 * [Aaryan Singh](https://github.com/aaryanshaby)
+
+## Under the guidence of:
+* [prof. Dipti Misra Sharma](https://faculty.iiit.ac.in/~dipti/), LTRC, IIIT-H
+* [Lalitha Kameswari](https://github.com/valalithak), CL2-TA, IIIT-H
