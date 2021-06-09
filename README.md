@@ -1,5 +1,5 @@
 # Word-Sense-Disambiguation
-Computational Linguistics-2 project
+Word sense disambiguation using lesk algorithm and word embeddings, done as a course project in Computational Linguistics-2 | Monsoon-2020
 
 We understand that words have different meanings
 based on the context of its usage in the sentence. If
